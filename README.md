@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Ana Paula 🙋
 
-- 🔭 Hoje trabalho como full-stack
+- 👩‍💻 Hoje trabalho como desenvolvedora
 - 📚 Cursando Engenharia de Software
 - 🌱 Estudando Typescript e Desenvolvimento Web
 - 📫 Contate-me: anapaula.abreuarnold@gmail.com
